@@ -94,6 +94,7 @@ const posts = [
             `É uma linguagem de programação e plataforma de computação. Foi criado por James Gosling na Sun Microsystems na década de 1990.
         <br><br>
         Principais características do Java:
+        <br>
         - É uma linguagem orientada a objetos. (POO)
         <br>
         - É multiplataforma, ou seja, pode ser usado em vários sistemas operacionais e dispositivos.
@@ -101,6 +102,7 @@ const posts = [
         - Suporta a execução de múltiplas threads.
         <br><br>
         Qual finalidade dessa linguagem?
+        <br>
         - Desenvolvimento de aplicativos móveis e páginas web.
         <br>
         - Desenvolvimento de software empresarial.
@@ -114,6 +116,7 @@ const posts = [
         - Desenvolvimento de aplicações distribuidas e com base na Cloud.
         <br><br>
         Vantagens de utilizar Java como linguagem de programação:
+        <br>
         - É uma escolha popular entre desenvolvedores.
         <br>
         - É uma linguagem versátil.
