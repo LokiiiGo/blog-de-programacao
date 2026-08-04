@@ -16,9 +16,9 @@ if (post) {
   document.title = `${post.titulo} - Blog de Programação`;
   tituloEl.textContent = post.titulo;
   conteudoEl.innerHTML = `
-    <p class="text-lg font-bold text-sky-600">${post.resumo}</p>
+    <p class="text-lg text-sky-600">${post.resumo}</p>
     <img class="mt-4 rounded-lg shadow-md" src="${post.image}" alt="${post.titulo}">
-    <p class="mt-4 text-sm leading-relaxed text-gray-950">${post.conteudo}</p>
+    <p class="mt-4 text-sm leading-relaxed text-gray-950 lg:text-sm">${post.conteudo}</p>
   `;
 } else {
   document.title = "Tópico não encontrado - Blog de Programação";
