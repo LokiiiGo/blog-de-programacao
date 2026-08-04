@@ -18,7 +18,7 @@ if (post) {
   conteudoEl.innerHTML = `
     <p class="text-lg text-sky-600">${post.resumo}</p>
     <img class="mt-4 rounded-lg shadow-md" src="${post.image}" alt="${post.titulo}">
-    <p class="mt-4 text-sm leading-relaxed text-gray-950 lg:text-sm">${post.conteudo}</p>
+    <p class="text-sm mt-4 leading-7 text-gray-950">${post.conteudo}</p>
   `;
 } else {
   document.title = "Tópico não encontrado - Blog de Programação";
