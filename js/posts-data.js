@@ -21,23 +21,23 @@ const posts = [
         resumo: "A estilização de um website",
         image: "./images/css.jpg",
         conteudo:
-            `É a sigla para Cascading Style Sheets, que em português signfica Folhas de Estilo em Cascata. É uma linguagem de marcação que define como os dados são apresentados
+            `É uma linguagem de marcação, que em português significa Folhas de Estilo em Cascata. Define como os dados serão apresentados
         no navegador, controlando aspectos como:
         <br><br>
         - font-size (tamanho da letra)
-        <br><br>
+        <br>
         - background (tipo de fundo)
-        <br><br>
+        <br>
         - text-align (alinhamento do texto)
-        <br><br>
+        <br>
         - color (cor do texto)
-        <br><br>
+        <br>
         - margin (margens - espaçamento externo)
         <br><br>
         O CSS foi desenvolvido pela W3C (World Wide Web Consortium) em 1996 e permite:
         <br><br>
         - Separar o conteúdo estrutural do documento da sua apresentação.
-        <br><br>
+        <br>
         - Facilitar a manutenção e a consistência visual em páginas web.`,
     },
     {
