@@ -93,7 +93,7 @@ const posts = [
         conteudo:
             `É uma linguagem de programação e plataforma de computação. Foi criado por James Gosling na Sun Microsystems na década de 1990.
         <br><br>
-        <strong>Principais características do Java:</strong>
+        <p class="font-bold">Principais características do Java:</p>
         <br>
         - É uma linguagem orientada a objetos. (POO)
         <br>
@@ -101,7 +101,7 @@ const posts = [
         <br>
         - Suporta a execução de múltiplas threads.
         <br><br>
-        <strong>Qual finalidade dessa linguagem?</strong>
+        <p class="font-bold">Qual finalidade dessa linguagem?</p>
         <br>
         - Desenvolvimento de aplicativos móveis e páginas web.
         <br>
@@ -115,7 +115,7 @@ const posts = [
         <br>
         - Desenvolvimento de aplicações distribuidas e com base na Cloud.
         <br><br>
-        <strong>Vantagens de utilizar Java como linguagem de programação:</strong>
+        <p class="font-bold">Vantagens de utilizar Java como linguagem de programação:</p>
         <br>
         - É uma escolha popular entre desenvolvedores.
         <br>
@@ -169,7 +169,7 @@ const posts = [
         id: "php",
         titulo: "PHP - Personal Home Page",
         resumo: "Desenvolvimento web ao lado do servidor",
-        image: "./images/php-codigo.png", 
+        image: "./images/php-codigo.png",
         conteudo:
             `PHP é uma linguagem de script do lado do servidor, o que significa que o código PHP é executado no servidor web antes que a página seja enviada para o navegador do usuário.
         Isso permite que o PHP gere conteúdo dinâmico, interaja com bancos de dados e processe informações antes de exibir a página no navegador.
@@ -249,7 +249,7 @@ const posts = [
         resumo: "Rede Social de Programador",
         image: "./images/git-github.png",
         conteudo:
-            `Uma plataforma de desenvolvimento colaborativo que aloja projetor na nuvem utilizando o sistemas de controle de versões chamado <strong>Git</strong>.
+            `Uma plataforma de desenvolvimento colaborativo que aloja projetor na nuvem utilizando o sistemas de controle de versões chamado <p>Git</p>.
         O github ajuda os desenvolvedores a armazenar e administrar o código e fazer o registro de mudança.
         Geralmente, é de código-aberto, o que permite realizar projetos compartilhados e manter o acompanhamento detalhado do usuário.
         <br>
@@ -339,7 +339,7 @@ const posts = [
         conteudo:
             `É uma estrutura que fornece ferramentas e componentes para a construção de projetos e pode ser aplicado em programação.
         <br><br>
-        - <strong>Framework em programação: </strong>é um conjunto de bibliotecas, estruturas e classes que podem ser reutilizados para desenvolver aplicações.
+        - <p>Framework em programação: </p>é um conjunto de bibliotecas, estruturas e classes que podem ser reutilizados para desenvolver aplicações.
         <br><br>
         - Define a estrutura do projeto e fornece as ferramentas necessárias para a construção.
         <br><br>
@@ -347,7 +347,7 @@ const posts = [
         <br><br>
         - Economiza tempo e evita a repetição de códigos comuns.
         <br><br>
-        - <strong>Framework em outras áreas: </strong>Pode ser usado para solucionar problemas de forma mais eficiente, otimizar recursos e detectar erros.
+        - <p>Framework em outras áreas: </p>Pode ser usado para solucionar problemas de forma mais eficiente, otimizar recursos e detectar erros.
         <br><br>
         - Pode ser usado para garantir qualidade no projeto e produtividade.
         <br><br>
