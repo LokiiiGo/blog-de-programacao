@@ -93,14 +93,14 @@ const posts = [
         conteudo:
             `É uma linguagem de programação e plataforma de computação. Foi criado por James Gosling na Sun Microsystems na década de 1990.
         <br><br>
-        <p>Principais características do Java:</p>
+        Principais características do Java:
         - É uma linguagem orientada a objetos. (POO)
         <br>
         - É multiplataforma, ou seja, pode ser usado em vários sistemas operacionais e dispositivos.
         <br>
         - Suporta a execução de múltiplas threads.
         <br><br>
-        <p>Qual finalidade dessa linguagem?</p>
+        Qual finalidade dessa linguagem?
         - Desenvolvimento de aplicativos móveis e páginas web.
         <br>
         - Desenvolvimento de software empresarial.
@@ -113,7 +113,7 @@ const posts = [
         <br>
         - Desenvolvimento de aplicações distribuidas e com base na Cloud.
         <br><br>
-        <p>Vantagens de utilizar Java como linguagem de programação:</p>
+        Vantagens de utilizar Java como linguagem de programação:
         - É uma escolha popular entre desenvolvedores.
         <br>
         - É uma linguagem versátil.
@@ -246,7 +246,7 @@ const posts = [
         resumo: "Rede Social de Programador",
         image: "./images/git-github.png",
         conteudo:
-            `Uma plataforma de desenvolvimento colaborativo que aloja projetor na nuvem utilizando o sistemas de controle de versões chamado <p>Git</p>.
+            `Uma plataforma de desenvolvimento colaborativo que aloja projetor na nuvem utilizando o sistemas de controle de versões chamado Git.
         O github ajuda os desenvolvedores a armazenar e administrar o código e fazer o registro de mudança.
         Geralmente, é de código-aberto, o que permite realizar projetos compartilhados e manter o acompanhamento detalhado do usuário.
         <br>
@@ -336,7 +336,7 @@ const posts = [
         conteudo:
             `É uma estrutura que fornece ferramentas e componentes para a construção de projetos e pode ser aplicado em programação.
         <br><br>
-        - <p>Framework em programação: </p>é um conjunto de bibliotecas, estruturas e classes que podem ser reutilizados para desenvolver aplicações.
+        - Framework em programação: é um conjunto de bibliotecas, estruturas e classes que podem ser reutilizados para desenvolver aplicações.
         <br><br>
         - Define a estrutura do projeto e fornece as ferramentas necessárias para a construção.
         <br><br>
@@ -344,7 +344,7 @@ const posts = [
         <br><br>
         - Economiza tempo e evita a repetição de códigos comuns.
         <br><br>
-        - <p>Framework em outras áreas: </p>Pode ser usado para solucionar problemas de forma mais eficiente, otimizar recursos e detectar erros.
+        - Framework em outras áreas: Pode ser usado para solucionar problemas de forma mais eficiente, otimizar recursos e detectar erros.
         <br><br>
         - Pode ser usado para garantir qualidade no projeto e produtividade.
         <br><br>
