@@ -46,32 +46,32 @@ const posts = [
         resumo: "A interatividade no website",
         image: "./images/js.png",
         conteudo:
-            `É uma liguagem de programação que permite criar páginas web interativas, melhorar a experiência do usuário e implementar itens complexos.
+            `É uma liguagem de programação que permite criar páginas interativas, melhorar a experiência do usuário e implementar itens complexos. Tais como:
         <br><br>
         - Atualizar feeds de mídia social.
-        <br><br>
+        <br>
         - Exibir animações e mapas interativas.
-        <br><br>
+        <br>
         - Mudar dinamicamente as cores de elementos de uma página web.
-        <br><br>
+        <br>
         - Criar jogos.
-        <br><br>
+        <br>
         - Criar gráficos 2D e 3D animados.
-        <br><br>
+        <br>
         - Criar aplicativos abrangentes baseados em banco de dados.
         <br><br>
-        O JavaScript é uma das tecnologias principais da World Wide Web, é amplamente utilizado em diferentes áreas.
+        O JavaScript é uma das tecnologias principais da World Wide Web, e é amplamente utilizado em diferentes áreas.
         <br><br>
-        - Desenvolvimento Web.
-        <br><br>
+        - Desenvolvimento Back-end.
+        <br>
         - Desenvolvimento Front-End.
-        <br><br>
+        <br>
         - Aplicativos móveis.
-        <br><br>
+        <br>
         - Desenvolvimento de Jogos.
-        <br><br>
+        <br>
         - Internet das Coisas (IOT).
-        <br><br>
+        <br>
         - Serverless e computação em nuvem.
         <br><br>
         Os navegadores serão capazes de responder a interações do usuário e alterar o layout do conteúdo da página.`
