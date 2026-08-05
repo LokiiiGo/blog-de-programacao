@@ -47,7 +47,7 @@ const posts = [
         image: "./images/js.png",
         conteudo:
             `É uma liguagem de programação que permite criar páginas interativas, melhorar a experiência do usuário e implementar itens complexos. Tais como:
-        <br><br>
+        <br>
         - Atualizar feeds de mídia social.
         <br>
         - Exibir animações e mapas interativas.
@@ -60,8 +60,8 @@ const posts = [
         <br>
         - Criar aplicativos abrangentes baseados em banco de dados.
         <br><br>
-        O JavaScript é uma das tecnologias principais da World Wide Web, e é amplamente utilizado em diferentes áreas.
-        <br><br>
+        O JavaScript é uma das tecnologias principais da World Wide Web, e é amplamente utilizado em diferentes áreas em:
+        <br>
         - Desenvolvimento Back-end.
         <br>
         - Desenvolvimento Front-End.
