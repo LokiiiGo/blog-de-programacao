@@ -196,8 +196,8 @@ const posts = [
         resumo: "O fundamento básico",
         image: "./images/LogicaProgramacao.png",
         conteudo:
-            `A lógica de programação é o conjunto de regras e técnicas que os programadores utilizam para projetar e desenvolver programas de computador.
-        É a habilidade de pensar de forma lógica e estruturada, decompondo um problema complexo em etapas mais simples.`,
+            `A lógica de programação é o fundamento mais importante para quem está iniciando na área de programação. Trata-se de um conjunto de regras e técnicas utilizadas pelos programadores para projetar e desenvolver programas de computador que solucionem problemas específicos.
+        Ela representa a habilidade de pensar de forma lógica e estruturada, decompondо um problema complexo em etapas mais simples.`,
     },
     {
         id: "bootstrap",
