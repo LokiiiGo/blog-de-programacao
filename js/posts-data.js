@@ -171,23 +171,23 @@ const posts = [
         resumo: "Desenvolvimento web ao lado do servidor",
         image: "./images/php-codigo.png",
         conteudo:
-            `PHP é uma linguagem de script do lado do servidor, o que significa que o código PHP é executado no servidor web antes que a página seja enviada para o navegador do usuário.
+            `PHP é uma linguagem de script do lado do servidor, o que significa que o código é executado no servidor web antes que a página seja enviada para o navegador do usuário.
         Isso permite que o PHP gere conteúdo dinâmico, interaja com bancos de dados e processe informações antes de exibir a página no navegador.
         <br><br>
-        PRINCIPAIS CARACTERÍSTICAS SOBRE PHP
-        <br><br>
+        Principais características do PHP:
+        <br>
         - Uma linguagem de programação que foi desenvolvida para deixar o HTML dinâmico.
-        <br><br>
+        <br>
         - Liguagem de script e open-source.
-        <br><br>
+        <br>
         - Os programas são executados em server side (lado do servidor; Back-end).
-        <br><br>
+        <br>
         - PHP significa Personal Home Page e HyperText Preprocessor.
-        <br><br>
+        <br>
         - O criador da linguagem foi Rasmus Lendorf.
-        <br><br>
+        <br>
         - O ano de lançamento foi em 1994.
-        <br><br>
+        <br>
         - Aproximadamente 80% dos websites utilizam PHP.`,
     },
     {
