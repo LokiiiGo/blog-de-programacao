@@ -226,9 +226,9 @@ const posts = [
         image: "./images/arduino.png",
         conteudo:
             `Arduino é uma plataforma de prototipagem eletrônica de código aberto baseada em hardware e software fáceis de usar.
-        <br><br>
+        <br>
         É composta por uma placa de circuito com um microcontrolador programável e um ambiente de desenvolvimento integrado (IDE) que permite escrever e carregar código na placa.
-        <br><br>
+        <br>
         O Arduino é amplamente utilizado por hobbyistas, educadores e profissionais para criar projetos interativos, como robótica, automação residencial e muito mais.`,
     },
     {
