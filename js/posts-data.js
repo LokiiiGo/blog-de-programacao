@@ -23,7 +23,7 @@ const posts = [
         conteudo:
             `É uma linguagem de marcação, que em português significa Folhas de Estilo em Cascata. Define como os dados serão apresentados
         no navegador, controlando aspectos como:
-        <br><br>
+        <br>
         - font-size (tamanho da letra)
         <br>
         - background (tipo de fundo)
@@ -35,7 +35,7 @@ const posts = [
         - margin (margens - espaçamento externo)
         <br><br>
         O CSS foi desenvolvido pela W3C (World Wide Web Consortium) em 1996 e permite:
-        <br><br>
+        <br>
         - Separar o conteúdo estrutural do documento da sua apresentação.
         <br>
         - Facilitar a manutenção e a consistência visual em páginas web.`,
