@@ -156,13 +156,13 @@ const posts = [
         resumo: "Software do Apache Friends",
         image: "./images/xampp.png",
         conteudo:
-            `É uma distribuição de software gratuito e de código aberto que contém o Apache, MySQL, PHP e Perl. A sigla XAMPP é uma referencias a esses quatro ferrasmentas, sendo que o X inicial indica que uma ferramenta é multiplataforma,
+            `É uma distribuição de software gratuito e de código aberto que contém o Apache, MySQL, PHP e Perl. A sigla XAMPP é uma referencias a esses quatro ferramentas, sendo que o X inicial indica que está ferramenta é multiplataforma,
         ou seja, funciona em Windows, Linux e MAC.
         <br>
-        Foi desenvolvido pela Apache Friends, uma organização sem fins lucrativos , é considierado o ambiente de desenvolvimento PHP mais popular.
-        Foi criado para ser uma ferramenta de desenvolvimento que permitisse ao programadores de websites testar o seu trabalho sem a necessidade de acesso a internet. No entanto, atualmente,
-        o XAMPP é também utilizado para servir websites WWW.
-        <br><br>
+        Foi desenvolvido pela Apache Friends, uma organização sem fins lucrativos, que é considerado o ambiente de desenvolvimento PHP mais popular.
+        Criado para ser uma ferramenta de desenvolvimento que permitisse ao programadores de websites testar o seu trabalho sem a necessidade de acesso a internet. No entanto, atualmente,
+        o XAMPP é também utilizado para servir websites WWW (World Wide Web).
+        <br>
         - Possui um painel de controle que permite iniciar ou parar servidores individuais.`,
     },
     {
