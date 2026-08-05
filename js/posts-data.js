@@ -47,7 +47,7 @@ const posts = [
         image: "./images/js.png",
         conteudo:
             `É uma liguagem de programação que permite criar páginas interativas, melhorar a experiência do usuário e implementar itens complexos. Tais como:
-        <br>
+        <br> 
         - Atualizar feeds de mídia social.
         <br>
         - Exibir animações e mapas interativas.
