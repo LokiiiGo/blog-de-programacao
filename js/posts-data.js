@@ -136,15 +136,15 @@ const posts = [
         é uma linguagem mais popular pra inserir, acessar e gerenciar o conteúdo armazenado num banco de dados.
         <br><br>
         O MySQL é usado em uma ampla variedade de aplicações como:
-        <br><br>
+        <br>
         - Sites de comércios eletrônicos.
-        <br><br>
+        <br>
         - Mídias sociais.
-        <br><br>
+        <br>
         - Apps como: Drupal, Joomia, Magento e WordPress.
-        <br><br>
+        <br>
         - Pilha de aplicativos da web Linux-Apache-MySQL-PHP/Perl/Python.
-        <br><br>
+        <br>
         - Facebook, X (atual Twitter), Netflix, Uber, Shopify e Booking.com
         <br><br>
         Funciona em um modelo cliente-servidor, onde os dados ficam armazenados no servidor e os clientes fazem solicitações para acessá-los.
