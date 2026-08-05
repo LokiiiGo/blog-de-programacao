@@ -206,7 +206,7 @@ const posts = [
         image: "./images/bootstrap5.png",
         conteudo:
             `Bootstrap é um framework front-end que fornece estruturas de CSS para a criação de sites e aplicações responsivas de forma rápida e simples. 
-        Além disso, pode lidar com sites de desktop e páginas de dispositivos móveis da mesma forma.`,
+        Além disso, pode lidar com sites de desktop e páginas de dispositivos móveis da mesma forma (responsividade é capaz de adaptar-se em diferentes tamanhos de tela).`,
     },
     {
         id: "tailwind",
@@ -214,10 +214,10 @@ const posts = [
         resumo: "Framework CSS",
         image: "./images/tailwindcss.png",
         conteudo:
-            `Tailwind CSS é um framework utilitário que permite criar designs personalizados diretamente no HTML, 
-        utilizando classes pré-definidas para estilização rápida e eficiente. 
+            `TailwindCSS é um framework utilitário que permite criar designs personalizados diretamente no HTML, biblíotecas e frameworks como Laravel e React, 
+        Ele utiliza classes pré-definidas para estilização rápida e eficiente em vez de criar classes CSS personalizadas. 
         <br>
-        Ele promove a criação de interfaces responsivas e modernas, facilitando o desenvolvimento front-end.`,
+        Promove a criação de interfaces responsivas e modernas, facilitando o desenvolvimento de qualquer aplicação front-end.`,
     },
     {
         id: "arduino",
