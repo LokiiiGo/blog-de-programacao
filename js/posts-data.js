@@ -253,7 +253,7 @@ const posts = [
         O github ajuda os desenvolvedores a armazenar e administrar o código e fazer o registro de mudança.
         Geralmente, é de código-aberto, o que permite realizar projetos compartilhados e manter o acompanhamento detalhado do usuário.
         <br>
-        Também funciona como uma rede social, conectando os desenvolvedores com os usuários. Como usuário, podem descarregar programas ou aplicativos, e da mesma maneira, colaborar com o
+        Também funciona como uma rede social, conectando os desenvolvedores com os usuários (conhecido como Networking). Como usuário, podem descarregar programas ou aplicativos, e da mesma maneira, colaborar com o
         desenvolvimento oferecendo melhorias e discutindo as questões que interessam nos foruns temáticos.`,
     },
     {
@@ -272,24 +272,24 @@ const posts = [
         resumo: "Biblioteca JavaScript",
         image: "./images/react.png",
         conteudo:
-            `É uma biblioteca JavaScript criada pelo Facebook (atual Meta) para criar interface de usuário (UI) em aplicativos Web
-        <br><br>
+            `É uma biblioteca JavaScript criada pelo Facebook (atual Meta) para criar interface de usuário (UI) em aplicativos Web.
+        <br>
         - É uma ferramenta ideal para desenvolvimento front-end.
-        <br><br>
+        <br>
         - Permite adotar estruturas do HTML e JS em um só código.
-        <br><br>
+        <br>
         - É baseado em componentes, o que permite criar UIs complexas.
-        <br><br>
+        <br>
         - A lógica do componente é escrita em JavaScript e não em template.
-        <br><br>
+        <br>
         - Pode ser usado para criar aplicações móveis, atravéz do React Native.
         <br><br>
         Algumas vantagens do React incluem:
-        <br><br>
+        <br>
         - Permitir criar interface de usuário que pode ser encontrada e acessa em diversos motores de busca.
-        <br><br>
+        <br>
         - Melhora o processamento de aplicação, o que pode melhorar os resultados do SEOs.
-        <br><br>
+        <br>
         - Torna o código mais preditivo, mais simples de entender e fácil de depurar.`,
     },
     {
