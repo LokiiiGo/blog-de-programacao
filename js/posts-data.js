@@ -316,18 +316,18 @@ const posts = [
         resumo: "Editor de codigo fonte",
         image: "./images/vscode.png",
         conteudo:
-            `O VSCode é um editor de código-fonte gratuito, de código aberto e multiplataforma desenvolvido pela Microsoft.
-        <br><br>
-        - É compatível com Windows, Linux e MAC.
-        <br><br>
-        - Suporta várias linguagens como JavaScript, PHP, C, C++, Java, TypeScript, Python, etc.
-        <br><br>
-        - É personalizável, permitindo alterar a aparência, teclas de atalho e preferências.
-        <br><br>
-        - É uma ferramenta de código-aberto, o que permite que a comunidade a melhore constantemente.
-        <br><br>
-        O VSCode é uma das ferramentas mais populares entre programadores e desenvolvedores. A sua popularidade deve-se a vários fatores, como a possibilidade
+        `O VSCode é um editor de código-fonte gratuito, de código aberto e multiplataforma desenvolvido pela Microsoft.
+        <br>
+        É uma das ferramentas populares entre programadores e desenvolvedores. A sua popularidade deve-se a vários fatores, como a possibilidade
         de personalização e o fato de ser gratuito.
+        <br>
+        - É compatível tanto para Windows, Linux quanto para macOS.
+        <br>
+        - Este software suporta várias linguagens de programação como JavaScript, PHP, C, C++, Java, TypeScript, Python, etc.
+        <br>
+        - É personalizável, permitindo que o usuário altere a aparência, teclas de atalho e preferências.
+        <br>
+        - É uma ferramenta de código-aberto (open-source), o que permite que a comunidade a melhore constantemente.
         <br><br>
         <a href="https://code.visualstudio.com/">Para instalação do VSCode, clique aqui</a>`,
     },
@@ -338,19 +338,19 @@ const posts = [
         image: "./images/framework.png",
         conteudo:
             `É uma estrutura que fornece ferramentas e componentes para a construção de projetos e pode ser aplicado em programação.
-        <br><br>
+        <br>
         - Framework em programação: é um conjunto de bibliotecas, estruturas e classes que podem ser reutilizados para desenvolver aplicações.
-        <br><br>
+        <br>
         - Define a estrutura do projeto e fornece as ferramentas necessárias para a construção.
-        <br><br>
+        <br>
         - Permite que os desenvolvedores se concentrem nas partes únicas do projeto.
-        <br><br>
+        <br>
         - Economiza tempo e evita a repetição de códigos comuns.
-        <br><br>
+        <br>
         - Framework em outras áreas: Pode ser usado para solucionar problemas de forma mais eficiente, otimizar recursos e detectar erros.
-        <br><br>
+        <br>
         - Pode ser usado para garantir qualidade no projeto e produtividade.
-        <br><br>
+        <br>
         - Pode ser usado para criar e executar aplicações de software.`,
     },
 ];
