@@ -31,7 +31,6 @@ A aplicação é 100% front-end, operando com páginas HTML e carregamento de co
 
 ### 5. Stack (tecnologias)
 - **HTML**: estrutura das páginas
-- **CSS**: estilização do layout e temas
 - **JavaScript**:
   - renderização da lista de tópicos
   - carregamento do conteúdo baseado no parâmetro `topico`
