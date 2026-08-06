@@ -298,16 +298,16 @@ const posts = [
         resumo: "A linguagem brasileira",
         image: "./images/portugolIDE1.png",
         conteudo:
-            `É uma linguagem de programação didática que usa a lingua portuguesa como base para facilitar o aprendizadoda lógica de programação.
-        <br><br>
+            `É uma linguagem de programação didática que usa a lingua portuguesa como base para facilitar o aprendizado da lógica de programação.
+        <br>
         - É uma pseudolinguagem que permite a implementação de algoritmos em português de forma simples e intuitiva.
-        <br><br>
+        <br>
         - A sintaxe é similar ao português, o que facilita o entendimento dos conceitos complexos.
-        <br><br>
+        <br>
         - É uma ferramenta educacional, idealizada para quem está começando a aprender programação.
         <br><br>
         O nome Portugol é uma sigla que vem de "pseudo-código em português" e é uma junção das palavras Português, Algol e Pascal.
-        <br><br>
+        <br>
         Foi criado pelos professores Antonio Carlos Nicolodi e Antonio Mannso, com o objetivo de ensinar programação sem que uma estrutura de uma linguagem passa-se sobre os iniciantes.`,
     },
     {
