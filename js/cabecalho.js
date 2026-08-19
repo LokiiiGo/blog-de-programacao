@@ -30,7 +30,7 @@ if (headerEl) {
           <a href="index.html" class="block py-2 text-sm font-bold uppercase text-white transition duration-300 hover:text-sky-500">Home</a>
         </li>
         <li>
-          <a href="https://github.com/LokiiiGo/programacao-blog" class="block py-2 text-sm font-bold uppercase text-white transition duration-300 hover:text-sky-500">Sobre</a>
+          <a href="https://github.com/LokiiiGo/blog-de-programacao" class="block py-2 text-sm font-bold uppercase text-white transition duration-300 hover:text-sky-500">Sobre</a>
         </li>
         <li>
           <a href="mailto:lucascalle880@gmail.com" class="block py-2 text-sm font-bold uppercase text-white transition duration-300 hover:text-sky-500">Contato</a>
