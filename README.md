@@ -23,7 +23,7 @@ A aplicação é 100% front-end, operando com páginas HTML e carregamento de co
 ### 4. Funcionalidades
 - **Navegação simples entre páginas**:
   - Home: `index.html`
-  - Detalhes: `index-1.html?topico=ID`
+  - Detalhes: `index-1.html#topico=ID`
 - **Carregamento dinâmico do post**:
   - A página `index-1.html` lê o parâmetro `topico` da URL.
   - Procura o conteúdo correspondente no array de dados e renderiza o texto e imagem.
