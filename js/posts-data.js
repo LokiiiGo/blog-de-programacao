@@ -77,6 +77,95 @@ const posts = [
         Os navegadores serão capazes de responder a interações do usuário e alterar o layout do conteúdo da página.`
     },
     {
+        id: "react",
+        titulo: "React",
+        resumo: "Biblioteca JavaScript",
+        image: "./images/react.png",
+        conteudo:
+            `É uma biblioteca JavaScript criada pelo Facebook (atual Meta) para criar interface de usuário (UI) em aplicativos Web.
+        <br>
+        - É uma ferramenta ideal para desenvolvimento front-end.
+        <br>
+        - Permite adotar estruturas do HTML e JS em um só código.
+        <br>
+        - É baseado em componentes, o que permite criar UIs complexas.
+        <br>
+        - A lógica do componente é escrita em JavaScript e não em template.
+        <br>
+        - Pode ser usado para criar aplicações móveis, atravéz do React Native.
+        <br><br>
+        Algumas vantagens do React incluem:
+        <br>
+        - Permitir criar interface de usuário que pode ser encontrada e acessa em diversos motores de busca.
+        <br>
+        - Melhora o processamento de aplicação, o que pode melhorar os resultados do SEOs.
+        <br>
+        - Torna o código mais preditivo, mais simples de entender e fácil de depurar.`,
+    },
+    {
+        id: "bootstrap",
+        titulo: "Bootstrap",
+        resumo: "Framework front-end",
+        image: "./images/bootstrap5.png",
+        conteudo:
+        `Bootstrap é um framework front-end que fornece estruturas de CSS para a criação de sites e aplicações responsivas de forma rápida e simples. 
+        Além disso, pode lidar com sites de desktop e páginas de dispositivos móveis da mesma forma (responsividade é capaz de adaptar-se em diferentes tamanhos de tela).`,
+    },
+    {
+        id: "tailwind",
+        titulo: "TailwindCSS",
+        resumo: "Framework CSS",
+        image: "./images/tailwindcss.png",
+        conteudo:
+            `TailwindCSS é um framework utilitário que permite criar designs personalizados diretamente no HTML, biblíotecas e frameworks como Laravel e React, 
+        Ele utiliza classes pré-definidas para estilização rápida e eficiente em vez de criar classes CSS personalizadas. 
+        <br>
+        Promove a criação de interfaces responsivas e modernas, facilitando o desenvolvimento de qualquer aplicação front-end.`,
+    },
+    {
+        id: "logica",
+        titulo: "Lógica de Programação",
+        resumo: "O fundamento básico",
+        image: "./images/LogicaProgramacao.png",
+        conteudo:
+        `A lógica de programação é o fundamento mais importante para quem está iniciando na área de programação. Trata-se de um conjunto de regras e técnicas utilizadas pelos programadores para projetar e desenvolver programas de computador que solucionem problemas específicos.
+        Ela representa a habilidade de pensar de forma lógica e estruturada, transformando problemas complexos em etapas mais simples.`,
+    },
+    {
+        id: "vscode",
+        titulo: "Visual Studio Code",
+        resumo: "Editor de codigo fonte",
+        image: "./images/vscode.png",
+        conteudo:
+        `O VSCode é um editor de código-fonte gratuito, de código aberto e multiplataforma desenvolvido pela Microsoft.
+        <br>
+        É uma das ferramentas populares entre programadores e desenvolvedores. A sua popularidade deve-se a vários fatores, como a possibilidade
+        de personalização e o fato de ser gratuito.
+        <br>
+        - É compatível tanto para Windows, Linux quanto para macOS.
+        <br>
+        - Este software suporta várias linguagens de programação como JavaScript, PHP, C, C++, Java, TypeScript, Python, etc.
+        <br>
+        - É personalizável, permitindo que o usuário altere a aparência, teclas de atalho e preferências.
+        <br>
+        - É uma ferramenta de código-aberto (open-source), o que permite que a comunidade a melhore constantemente.
+        <br><br>
+        <a href="https://code.visualstudio.com/">Para instalação do VSCode, clique aqui</a>`,
+    },
+    {
+        id: "github",
+        titulo: "GitHub",
+        resumo: "Rede Social de Programador",
+        image: "./images/git-github.png",
+        conteudo:
+            `Uma plataforma de desenvolvimento colaborativo que aloja projetor na nuvem utilizando o sistemas de controle de versões chamado Git.
+        O github ajuda os desenvolvedores a armazenar e administrar o código e fazer o registro de mudança.
+        Geralmente, é de código-aberto, o que permite realizar projetos compartilhados e manter o acompanhamento detalhado do usuário.
+        <br>
+        Também funciona como uma rede social, conectando os desenvolvedores com os usuários (conhecido como Networking). Como usuário, podem descarregar programas ou aplicativos, e da mesma maneira, colaborar com o
+        desenvolvimento oferecendo melhorias e discutindo as questões que interessam nos foruns temáticos.`,
+    },
+    {
         id: "python",
         titulo: "Python - POO",
         resumo: "Programação Orientada a Objetos",
@@ -191,35 +280,6 @@ const posts = [
         - Aproximadamente 80% dos websites utilizam PHP.`,
     },
     {
-        id: "logica",
-        titulo: "Lógica de Programação",
-        resumo: "O fundamento básico",
-        image: "./images/LogicaProgramacao.png",
-        conteudo:
-            `A lógica de programação é o fundamento mais importante para quem está iniciando na área de programação. Trata-se de um conjunto de regras e técnicas utilizadas pelos programadores para projetar e desenvolver programas de computador que solucionem problemas específicos.
-        Ela representa a habilidade de pensar de forma lógica e estruturada, transformando problemas complexos em etapas mais simples.`,
-    },
-    {
-        id: "bootstrap",
-        titulo: "Bootstrap",
-        resumo: "Framework front-end",
-        image: "./images/bootstrap5.png",
-        conteudo:
-            `Bootstrap é um framework front-end que fornece estruturas de CSS para a criação de sites e aplicações responsivas de forma rápida e simples. 
-        Além disso, pode lidar com sites de desktop e páginas de dispositivos móveis da mesma forma (responsividade é capaz de adaptar-se em diferentes tamanhos de tela).`,
-    },
-    {
-        id: "tailwind",
-        titulo: "TailwindCSS",
-        resumo: "Framework CSS",
-        image: "./images/tailwindcss.png",
-        conteudo:
-            `TailwindCSS é um framework utilitário que permite criar designs personalizados diretamente no HTML, biblíotecas e frameworks como Laravel e React, 
-        Ele utiliza classes pré-definidas para estilização rápida e eficiente em vez de criar classes CSS personalizadas. 
-        <br>
-        Promove a criação de interfaces responsivas e modernas, facilitando o desenvolvimento de qualquer aplicação front-end.`,
-    },
-    {
         id: "arduino",
         titulo: "Arduino - C++",
         resumo: "Construindo Hardware",
@@ -244,19 +304,6 @@ const posts = [
         C é amplamente utilizada no desenvolvimento de sistemas operacionais, software embarcado (arduino/c++) e aplicativos de alto desempenho.`,
     },
     {
-        id: "github",
-        titulo: "GitHub",
-        resumo: "Rede Social de Programador",
-        image: "./images/git-github.png",
-        conteudo:
-            `Uma plataforma de desenvolvimento colaborativo que aloja projetor na nuvem utilizando o sistemas de controle de versões chamado Git.
-        O github ajuda os desenvolvedores a armazenar e administrar o código e fazer o registro de mudança.
-        Geralmente, é de código-aberto, o que permite realizar projetos compartilhados e manter o acompanhamento detalhado do usuário.
-        <br>
-        Também funciona como uma rede social, conectando os desenvolvedores com os usuários (conhecido como Networking). Como usuário, podem descarregar programas ou aplicativos, e da mesma maneira, colaborar com o
-        desenvolvimento oferecendo melhorias e discutindo as questões que interessam nos foruns temáticos.`,
-    },
-    {
         id: "laravel",
         titulo: "Laravel",
         resumo: "Framework PHP",
@@ -265,32 +312,6 @@ const posts = [
             `O Laravel é um framework PHP de código aberto que oferece uma estrutura robusta para desenvolver aplicações web modernas.
         Ele utiliza o padrão MVC (Model-View-Controller) e oferece recursos como ORM, migrações de banco de dados, testes automatizados e entre outros.
         O Laravel é amplamente utilizado por desenvolvedores para criar aplicações escaláveis e seguras.`,
-    },
-    {
-        id: "react",
-        titulo: "React",
-        resumo: "Biblioteca JavaScript",
-        image: "./images/react.png",
-        conteudo:
-            `É uma biblioteca JavaScript criada pelo Facebook (atual Meta) para criar interface de usuário (UI) em aplicativos Web.
-        <br>
-        - É uma ferramenta ideal para desenvolvimento front-end.
-        <br>
-        - Permite adotar estruturas do HTML e JS em um só código.
-        <br>
-        - É baseado em componentes, o que permite criar UIs complexas.
-        <br>
-        - A lógica do componente é escrita em JavaScript e não em template.
-        <br>
-        - Pode ser usado para criar aplicações móveis, atravéz do React Native.
-        <br><br>
-        Algumas vantagens do React incluem:
-        <br>
-        - Permitir criar interface de usuário que pode ser encontrada e acessa em diversos motores de busca.
-        <br>
-        - Melhora o processamento de aplicação, o que pode melhorar os resultados do SEOs.
-        <br>
-        - Torna o código mais preditivo, mais simples de entender e fácil de depurar.`,
     },
     {
         id: "portugol",
@@ -309,27 +330,6 @@ const posts = [
         O nome Portugol é uma sigla que vem de "pseudo-código em português" e é uma junção das palavras Português, Algol e Pascal.
         <br>
         Foi criado pelos professores Antonio Carlos Nicolodi e Antonio Mannso, com o objetivo de ensinar programação sem que uma estrutura de uma linguagem passa-se sobre os iniciantes.`,
-    },
-    {
-        id: "vscode",
-        titulo: "Visual Studio Code",
-        resumo: "Editor de codigo fonte",
-        image: "./images/vscode.png",
-        conteudo:
-        `O VSCode é um editor de código-fonte gratuito, de código aberto e multiplataforma desenvolvido pela Microsoft.
-        <br>
-        É uma das ferramentas populares entre programadores e desenvolvedores. A sua popularidade deve-se a vários fatores, como a possibilidade
-        de personalização e o fato de ser gratuito.
-        <br>
-        - É compatível tanto para Windows, Linux quanto para macOS.
-        <br>
-        - Este software suporta várias linguagens de programação como JavaScript, PHP, C, C++, Java, TypeScript, Python, etc.
-        <br>
-        - É personalizável, permitindo que o usuário altere a aparência, teclas de atalho e preferências.
-        <br>
-        - É uma ferramenta de código-aberto (open-source), o que permite que a comunidade a melhore constantemente.
-        <br><br>
-        <a href="https://code.visualstudio.com/">Para instalação do VSCode, clique aqui</a>`,
     },
     {
         id: "framework",
