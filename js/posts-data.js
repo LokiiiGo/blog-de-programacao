@@ -346,8 +346,8 @@ const posts = [
         - Permite que os desenvolvedores se concentrem nas partes únicas do projeto.
         <br>
         - Economiza tempo e evita a repetição de códigos comuns.
-        <br>
-        - Framework em outras áreas: Pode ser usado para solucionar problemas de forma mais eficiente, otimizar recursos e detectar erros.
+        <br><br>
+        Framework em outras áreas: Pode ser usado para solucionar problemas de forma mais eficiente, otimizar recursos e detectar erros.
         <br>
         - Pode ser usado para garantir qualidade no projeto e produtividade.
         <br>
